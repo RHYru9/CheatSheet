@@ -96,4 +96,4 @@ To prevent email injection and header/body injection attacks, developers should 
 8. ---
 
 
-- (https://book.hacktricks.xyz/~gitbook/image?url=https%3A%2F%2F129538173-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-L_2uGJGU7AVNRcqRvEi%252F-MAf06jjQTASThOsFOnx%252F-MAfC1q0YnNSlx_rx4iq%252Fimage.png%3Falt%3Dmedia%26token%3D2218ac26-7701-4535-b582-b86b0dc9f064&width=768&dpr=1&quality=100&sign=c05268ea&sv=1)[https://book.hacktricks.xyz/~gitbook/image?url=https%3A%2F%2F129538173-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-L_2uGJGU7AVNRcqRvEi%252F-MAf06jjQTASThOsFOnx%252F-MAfC1q0YnNSlx_rx4iq%252Fimage.png%3Falt%3Dmedia%26token%3D2218ac26-7701-4535-b582-b86b0dc9f064&width=768&dpr=1&quality=100&sign=c05268ea&sv=1]
+- [https://book.hacktricks.xyz/](https://book.hacktricks.xyz/~gitbook/image?url=https%3A%2F%2F129538173-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-L_2uGJGU7AVNRcqRvEi%252F-MAf06jjQTASThOsFOnx%252F-MAfC1q0YnNSlx_rx4iq%252Fimage.png%3Falt%3Dmedia%26token%3D2218ac26-7701-4535-b582-b86b0dc9f064&width=768&dpr=1&quality=100&sign=c05268ea&sv=1)
